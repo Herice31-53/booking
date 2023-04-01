@@ -1,4 +1,4 @@
-# Booking website
+# Barber shop booking website
 This website has two main pages: 
 
 * The first one is for the client. It is a front-end page that allows anyone to book an appointment with the desired barber (or any) at the desired time. 
