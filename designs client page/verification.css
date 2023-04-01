@@ -1,0 +1,69 @@
+body
+{
+    background: #f7f7f7;
+    background-image: url("../images/verify_background.png");
+    background-size: cover;
+}
+
+
+
+.text_header
+{
+    margin-bottom: 5px;
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 1.5;
+    margin-top: 5px;
+    text-align: center;
+}
+
+.text_answer
+{
+    font-size: 16px;
+    line-height: 1.5;
+    text-align: center;
+}
+
+.booking_section
+{
+    max-width: 720px;
+    margin: 50px auto 50px;
+    /*min-height: 500px;*/
+    
+}
+
+.update_made
+{
+    margin-top: 10px;
+    border-radius: 8px;
+    padding-top: 5px;
+    padding-bottom: 15px;
+    background-color: #e9e8e8;
+    box-shadow: 20px 20px 5px 5px rgba(60, 65, 83, 0.5);
+    border-left: 6px solid rgb(144,238,144);
+}
+
+.already_active
+{
+    margin-top: 10px;
+    border-radius: 8px;
+    padding-top: 5px;
+    padding-bottom: 15px;
+    background-color: #e9e8e8;
+    box-shadow: 20px 20px 5px 5px rgba(60, 65, 83, 0.5);
+    border-left: 6px solid rgb(215, 159, 3);
+}
+
+.no_match_found
+{
+    margin-top: 10px;
+    border-radius: 8px;
+    padding-top: 5px;
+    padding-bottom: 15px;
+    background-color: #e9e8e8;
+    box-shadow: 20px 20px 5px 5px rgba(60, 65, 83, 0.5);
+    border-left: 6px solid rgb(205,92,92);
+}
+
+
+
