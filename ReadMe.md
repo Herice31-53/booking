@@ -13,7 +13,7 @@ With the following credentials:
 username: amaury
 password: 1212
 
-You can find the php codes in this repo. Please contact me at deguillebon.amaury@gmail.com if you would like to have the full content.
+Please contact me at deguillebon.amaury@gmail.com if you would like to have the full repo.
 
 # Special features
 Please take into account that this work could not have been possible without the following source: https://github.com/jairiidriss/barbershop-website-php-mysql on which my work is based. 
